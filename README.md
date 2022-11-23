@@ -7,7 +7,7 @@ Using VBA on the green_stocks dataset we explored how to create macros, refactor
 
 
 ## Results
-![Module 2017](Resources/Module 2017 Analysis.png)
-![Module 2018](Resources/Module 2018 Analysis.png)
+![Module 2017](Resources/Module_2017_Analysis.png)
+![Module 2018](Resources/Module_2018_Analysis.png)
 
 ## Summary

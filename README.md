@@ -31,12 +31,12 @@ The main change that we made to the code that looped over the rows and arrays:
 - We used a nested loop in the module & refactored the script to have three separate for loops.
   - Not counting the formatting for loops.
 
-Original
-![Original](Resources/Original_Script.png)
+- Original
+  - ![Original](Resources/Original_Script.png)
 
-Refactored
-![Refactored](Resources/Refactored_Script.png)
-![Refactored_2](Resources/Refactored_Script_2.png)
+- Refactored
+  - ![Refactored](Resources/Refactored_Script.png)
+  - ![Refactored_2](Resources/Refactored_Script_2.png)
 
 ## Summary
 # Advantages and Disadvantages of Refactoring Code in General

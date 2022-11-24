@@ -7,7 +7,7 @@ Using VBA on the green_stocks dataset we explored how to create macros, refactor
 
 
 ## Results
-# Stock Performance
+### Stock Performance
 ![Module 2017](Resources/Module_2017_Analysis.png)
 ![Module 2018](Resources/Module_2018_Analysis.png)
 - Our analysis of Daqo (DQ) in 2017 & 2018 shows the following:
@@ -17,7 +17,7 @@ Using VBA on the green_stocks dataset we explored how to create macros, refactor
   - 2018
     - DQ's daily trading volume more than tripled to ~108M shares, but lost 62.60% in 2018. 
     - DQ was not the only losing stock in 2018, of the 12 stocks we analyzed, only RUN & ENPH grew in 2018. 
-# Code
+### Code
 The refactored code was a success, as seen above:
 - It took our original code 1.089844 seconds to run our 2017 analysis for 12 stocks.
 - It took our original code 1.054688 seconds for the year 2018.
@@ -39,12 +39,12 @@ The main change that we made to the code that looped over the rows and arrays:
   - ![Refactored_2](Resources/Refactored_Script_2.png)
 
 ## Summary
-# Advantages and Disadvantages of Refactoring Code in General
+### Advantages and Disadvantages of Refactoring Code in General
 Depending on the time saved it may or may not be worth it to refactor code. If a significant amount of time is spent to save a barely noticeable amount of time, one should probably just leave the original code as is. 
 
 However, there are many instances where refactoring code would absolutely be worthwhile, especially for larger datasets. Finding the right balance between time spent refactoring code and time saved by the increased efficiency is key.
 
-# Advantages and Disadvantages of the Original and Refactored VBA Script
+### Advantages and Disadvantages of the Original and Refactored VBA Script
 The original script did allow us some more formatting customization in terms of adjusting the styles and colors in the column titles.
 
 We can clearly see the benefits of refactoring code here, we can save a lot of time by making our code more efficient. The benefit in this example might be small, but at a larger scale such as analyzing thousands of stocks we can reap the rewards. 
